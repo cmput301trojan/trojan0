@@ -4,10 +4,8 @@ public abstract class shape {
     int x;
     int y;
 
-    String color = "blue";
+    String color = "green";
 }
-
-
 
 
 
